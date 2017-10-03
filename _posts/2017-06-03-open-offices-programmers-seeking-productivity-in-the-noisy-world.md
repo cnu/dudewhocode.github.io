@@ -9,6 +9,7 @@ keywords:
   - open plan office
   - productivity
 ---
+
 Open office floor plans are widespread in today's tech startups. They aim in breaking physical barriers in the workplaces in order to break the intellectual barriers helping employees to collaborate with others. It is also a cost efficient way to squeeze all the employees into a small workplace.
 
 But guess what?, Programmers hate open office plans.
@@ -31,6 +32,7 @@ Yet another [study](https://www.ncbi.nlm.nih.gov/pubmed/11055149) shows that, Ju
 ##  Noisy environment
 
 If you are a programmer you can totally relate to this. Every programmer needs to concentrate. They don't want to over hear other people's conversations. Damn, they don't even care how cute your new puppy is or how awesome was that movie while they are on a tight deadline with deliverables.
+
 And using headphones is not a solution, you can't listen to songs and concentrate on programming. Sure it might feel better than without headphones, but you are just choosing worse over the worst.
 
 Generally every employee undergoes these 4 modes in their workplace : focus, collaborate, learn and socialize. Open offices favour collaboration and socializing. Of course, these are the important modes where you can get some relief from your work stress, share ideas and help in developing the culture of the workplace. But collaboration and socializing should not happen in the area where programmers are trying to focus.
@@ -54,6 +56,7 @@ The company should always have an official communication medium, either it can 
 The guy who is focussing on something can get back to you at the time when he has done with his train of thoughts.
 
 ## The debate
+
 People who love open offices will have some point by their side (Well, I am 99% sure they won't be programmers).
 
 > _Open-office layouts are great, and if you don’t like them, you must have some problem, may be you are kind of an introvert._
@@ -71,11 +74,8 @@ Well, one cannot change the office layout just because a bunch of people cannot 
 ## Golden rules for productive workplace
 
 * All employees must respect others time.
-
 * Move the noisy conversations to a private place.
-
 * In order to convey something, First try to leave a message, wait for at least half an hour. Then go tap their shoulder. (Not applicable in urgent scenarios, but one should clearly know whats urgent and whats not.)
-
 * One idiot can cost an entire team's productivity, everyone should try their best to not to be that idiot.
 
 When you ask a person, which is the most productive place where you can get more work done. Instead of listing, their home, cafe, long flight journeys. Their answer should be, **my office space**.
